@@ -9,3 +9,5 @@ IntelliJ IDEA 2026.1 addresses these pitfalls with more Kotlin-aware JPA support
 - Autoconfiguration of Kotlin `no-arg` and `all-open` compiler plugins when adding Kotlin to an existing project
 - Removal of redundant no-arg constructions and `open` modifiers
 - Detection and quick-fixes for pitfalls like using data classes and `val` fields on JPA entities
+
+Read more about the improvements in the [IntelliJ Blog](https://blog.jetbrains.com/idea/2026/01/how-to-avoid-common-pitfalls-with-jpa-and-kotlin/).
